@@ -19,3 +19,7 @@ Este é um *repositório* de onde encontram-se os excercicios do curso **Git e G
 * HTML
 * CSS
 * Markdown
+
+## Hospedado no Github
+
+![Logo Github](Image/GitHub-Mark-120px-plus.png)
