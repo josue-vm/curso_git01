@@ -5,8 +5,8 @@ Este é um *repositório* de onde encontram-se os excercicios do curso **Git e G
 ## Conteúdo
 
  1. **Git fundamental**;
-            1. Introdução
-            2. Encerramento
+      1. Introdução
+      2. Encerramento
  2. **Branches**; 
  3. Compartilhamento e atualização de Repositórios...
 
