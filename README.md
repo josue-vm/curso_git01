@@ -24,3 +24,10 @@ Este é um *repositório* de onde encontram-se os excercicios do curso **Git e G
 
 ![Logo Github](Image/GitHub-Mark-120px-plus.png)
 ![Logo HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png)
+
+## Meu perfil no github
+
+[josue-vm](https://github.com/josue-vm)
+[https://github.com/josue-vm](https://github.com/josue-vm)
+Meu perfil: https://github.com/josue-vm
+[![Logo Github](Image/GitHub-Mark-120px-plus.png)](https://github.com/josue-vm)
