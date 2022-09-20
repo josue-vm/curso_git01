@@ -43,5 +43,5 @@ Este é um *repositório* de onde encontram-se os excercicios do curso **Git e G
 ## Aulas Completadas
 
 - [x] Aulas 1 a 8;
-- [] Aula 9
-- [] Aula 10
+- [ ] Aula 9
+- [ ] Aula 10
