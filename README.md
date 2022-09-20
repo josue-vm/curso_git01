@@ -31,3 +31,11 @@ Este é um *repositório* de onde encontram-se os excercicios do curso **Git e G
 * [https://github.com/josue-vm](https://github.com/josue-vm)
 * Meu perfil: https://github.com/josue-vm
 * [![Logo Github](Image/GitHub-Mark-120px-plus.png)](https://github.com/josue-vm)
+
+## Testando inserir um código
+
+```c#
+    public int Soma(int a, int b){
+        retun a+b;
+    }
+```
