@@ -27,7 +27,7 @@ Este é um *repositório* de onde encontram-se os excercicios do curso **Git e G
 
 ## Meu perfil no github
 
-[josue-vm](https://github.com/josue-vm)
-[https://github.com/josue-vm](https://github.com/josue-vm)
-Meu perfil: https://github.com/josue-vm
-[![Logo Github](Image/GitHub-Mark-120px-plus.png)](https://github.com/josue-vm)
+* [josue-vm](https://github.com/josue-vm)
+* [https://github.com/josue-vm](https://github.com/josue-vm)
+* Meu perfil: https://github.com/josue-vm
+* [![Logo Github](Image/GitHub-Mark-120px-plus.png)](https://github.com/josue-vm)
