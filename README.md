@@ -39,3 +39,9 @@ Este é um *repositório* de onde encontram-se os excercicios do curso **Git e G
         retun a+b;
     }
 ```
+
+## Aulas Completadas
+
+- [x] Aulas 1 a 8;
+- [] Aula 9
+- [] Aula 10
